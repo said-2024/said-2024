@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @said
 - 👀 I’m interested in .NET
 - ⚡ And this is my github account
+- 😑 And always remember if your code is working don't touch it
